@@ -1,0 +1,28 @@
+name: Analyst Relations
+favicon: null
+layout_spectrum: 0.08335835370235145
+typography_spectrum: 0.06627589417621493
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9552369534503669
+  lightness: 0.9492933400906622
+  saturation: 0.45584306330420077
+  rhythmicContrast: 0.8484545634128153
+purpose: []
