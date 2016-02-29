@@ -1,6 +1,6 @@
 name: Analyst Relations
 favicon: null
-layout_spectrum: 0.99795
+layout_spectrum: 0.74706
 typography_spectrum: 0.06627589417621493
 title: AnalystRelations.com
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9552369534503669
+  brandStrength: 0.5
   lightness: 0.9492933400906622
   saturation: 0.45584306330420077
   rhythmicContrast: 0.8484545634128153
